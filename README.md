@@ -1,5 +1,3 @@
-# MyAgent: README
-
 ## Table of Contents
 - [Overview](#overview)
 - [Techniques Used](#techniques-used)
